@@ -1,0 +1,3 @@
+main.ts adapts the driver supplied by make.fun in the csv-reader 1.0.0 baseline.
+solve.js is independently implemented against the published behavioral contract.
+The original reference implementation is used only for development tests, not shipped.
